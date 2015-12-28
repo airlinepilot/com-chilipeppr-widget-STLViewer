@@ -9,4 +9,5 @@
 # automatically when it loads.
 git add *
 git commit -m "Made some changes to ChiliPeppr widget using Cloud9"
+git push origin master:gh-pages
 git push
